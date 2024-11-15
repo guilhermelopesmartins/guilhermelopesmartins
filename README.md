@@ -33,7 +33,7 @@ Currently, I am a developer at **Cumorah Academy**, where I’ve built an API in
 ---
 
 ### 🌟 Featured Projects
-- [**Cumorah API**](#) – A Python-based API for improving operational processes.  
+- [**Cumorah API**](https://github.com/guilhermelopesmartins/MessageSender) – A Python-based API for improving operational processes.  
 - [**Financial Data Management Tool**](#) – A C# and SQL Server application for efficient financial analysis.  
 
 ---
@@ -54,5 +54,5 @@ I’m here to collaborate on exciting projects and solve challenging problems. W
 Let’s connect!
 
 📧 **Email**: guilhermelopesmartins123@gmail.com  
-📱 **WhatsApp**: [Click to Chat](https://wa.me/+555198394721)  
+📱 **WhatsApp**: [Click to Chat](https://wa.me/+5551986280777)  
 🌐 **LinkedIn**: [linkedin.com/in/guilherme-lopes-martins/](https://www.linkedin.com/in/guilherme-lopes-martins/)
