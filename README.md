@@ -34,7 +34,7 @@ Currently, I am a developer at **Cumorah Academy**, where I’ve built an API in
 
 ### 🌟 Featured Projects
 - [**Cumorah API**](https://github.com/guilhermelopesmartins/MessageSender) – A Python-based API for improving operational processes.  
-- [**Financial Data Management Tool**](#) – A C# and SQL Server application for efficient financial analysis.  
+- **Financial Data Management Tool** – A C# and SQL Server application for efficient financial analysis.  
 
 ---
 
