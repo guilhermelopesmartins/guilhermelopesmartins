@@ -49,8 +49,8 @@ I’m here to collaborate on exciting projects and solve challenging problems. W
 ---
 
 <p align="center">
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermelopesmartins&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelopesmartins&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://guilhermelopesmartinsgithub-readme.vercel.app/api?username=guilhermelopesmartins&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://guilhermelopesmartinsgithub-readme.vercel.app/api/top-langs/?username=guilhermelopesmartins&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 ---
