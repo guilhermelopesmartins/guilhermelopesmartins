@@ -8,9 +8,11 @@ I'm **Guilherme Lopes Martins**, a passionate Full-Stack Developer from **Brazil
 
 ### 🚀 About Me
 
-I have over two years of experience in software development, working with **C#**, **.NET**, **JavaScript**, **SQL Server**, **PostgreSQL**, and **SAPUI5**. I'm proficient in both front-end and back-end technologies and have a knack for improving systems and refactoring code for better performance.
+I have over two years of experience in software development, having worked at **BR GAAP**, where I developed and maintained systems using **C#**, **.NET**, **JavaScript**, **SQL Server**, **PostgreSQL**, and **SAPUI5**. During this time, I worked across both front-end and back-end layers, focusing on system improvements, performance optimization, and code refactoring to enhance scalability and maintainability.
 
-Currently, I am a developer at **Cumorah Academy**, where I’ve built an API in Python, configured Linux servers, and optimized processes, achieving a **94% reduction in analysis time**. I thrive in collaborative environments and enjoy mentoring new developers and contributing to Scrum teams.
+Currently, I work as **IT Coordinator at USA Containers**, where I develop and maintain systems using **Python**, **FastAPI**, **Tortoise ORM**, **Vue.js**, and **JavaScript**. My responsibilities include integrating APIs, working with **AWS Lambda functions**, integrating our platform with third-party APIs, and handling daily operational and technical tasks. I am also responsible for designing and maintaining **automations in GoHighLevel (GHL)**, ensuring efficient workflows and process reliability across the company.
+
+Previously, I worked as a developer at **Cumorah Academy**, where I built a Python-based API, configured and maintained Linux servers, and optimized internal processes—achieving a **94% reduction in analysis time**. I thrive in collaborative environments, enjoy mentoring developers, and actively contribute to agile teams following the **Scrum framework**.
 
 **Fun Fact:** I started programming at 14 and haven’t stopped since!
 
@@ -33,8 +35,10 @@ Currently, I am a developer at **Cumorah Academy**, where I’ve built an API in
 ---
 
 ### 🌟 Featured Projects
+- [**LMS**](https://github.com/guilhermelopesmartins/LMS) - Learning Management System in production, to support small and medium schools
+- [*Gym Notes*](https://github.com/guilhermelopesmartins/gym_notes) - A mobile application to help keep the progress at the gym
 - [**Cumorah API**](https://github.com/guilhermelopesmartins/MessageSender) – A Python-based API for improving operational processes.  
-- **Financial Data Management Tool** – A C# and SQL Server application for efficient financial analysis.  
+- **Financial Data Management Tool** – A C# and SQL Server application for efficient financial analysis. (At BR GAAP)  
 
 ---
 
